@@ -1,0 +1,6 @@
+.size {text-align: right;}
+.type {text-align: center}
+td i {font-size: 1.5em}
+td .progress {margin-bottom: 0}
+.grand-total td {background-color: #b6edff; }
+.grand-total .actions i { display: none }
